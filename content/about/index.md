@@ -1,5 +1,9 @@
 # WAIS Workshop
 
-Welcome to WAIS Workshop! 
+{{<callout type="warning" emoji="🚧">}}
+  This page is under development
+{{</callout>}}
 
-Here is some cool stuff we do, what we're about, yatta yatta
+Welcome to WAIS Workshop!
+
+
