@@ -1,10 +1,12 @@
 ---
 title: Deadlines
 weight: 1
-next: current-meeting/registration
-prev: current-meeting
+next: .Next
+prev: .Prev
 ---
 
+Please check back soon for when registration and abstract submission opens!
+<!---
 <div class="hx:mt-6 hx:mb-6">
 {{<cards cols="1">}}
   {{<card
@@ -21,6 +23,7 @@ prev: current-meeting
      tag="Travel Support Deadline has now passed"
      tagType="error"
   >}}
+--->
 <!-- While registration is open: -->
 <!--  {{<card
      title="Registration"
@@ -42,6 +45,7 @@ prev: current-meeting
 
 <!-- When registration closes -->
 
+<!---
   {{<card
      title="Registration"
      link="../registration"
@@ -52,3 +56,4 @@ prev: current-meeting
 
 {{</cards>}}
 </div>
+--->
