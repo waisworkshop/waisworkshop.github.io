@@ -1,26 +1,27 @@
 ---
 title: Registration Information
 weight: 2
-next: current-meeting/agenda
-prev: current-meeting/deadlines
+next: .Next
+prev: .Prev
 ---
 
+<!---
 {{<callout type="error" emoji=" ">}}
   Registration for the 2024 WAIS Workshop is now closed.
-  
-  A link for livestreaming will be sent to the [WAIS Workshop email list](http://eepurl.com/hHDpVL).
 {{</callout>}}
+--->
 
 ## Fees
 
 <div class="hx:mt-6 hx:mb-3">
 {{<cards cols="2">}}
-  {{<card title="Standard Registration: $300">}}
-  {{<card title="Early-Career Registration: $200">}}
+  {{<card title="Standard Registration: TBD">}}
+  {{<card title="Early-Career Registration: TBD">}}
+  {{<card title="On-site lodging: TBD">}}
 {{</cards>}}
 </div>
 
-The registration fee includes meals for the 2.5 day meeting, but does not include lodging this year.
+The registration fee includes [meals](#meals) for the 2.5 day meeting. We will have a separate [lodging](#lodging) fee for staying on site during the conference.
 
 ## Meals
 
@@ -64,8 +65,13 @@ Registration includes Monday dinner, breakfasts, lunches and dinners on Tuesday 
 
 ## Lodging
 
+<!---
 {{<callout type="error" emoji=" ">}}
   The room block for discounted lodging is now closed. Please [contact us](mailto:wais@mines.edu) with any lodging concerns you may have.
 {{</callout>}}
+--->
 
-We have room block at the Hilton UF. Rooms for all participants are available at a reduced rate of **$107/night**. The booking port for lodging is available until XXXX.
+Lodging at [Camp Casey](https://www.ymcacampcasey.org/) is in rustic quarters on the Puget Sound. Staying on site allows interaction and collaboration among the meeting participants in an informal and beautiful setting. For the true WAIS Workshop experience, we _strongly_ recommend staying on-site. Lodging will be filled on a first-come, first-served basis, and we do have space available for all participants to stay on site in shared quarters. 
+
+For those preferring a hotel, there are several options nearby in Oakville, WA ([about 20–25 minutes away by car](https://maps.app.goo.gl/MVxkMp4DNyFHa68n6)); we have not arranged a room block, so you are on your own for lodging and transportation to/from Camp Casey every day if you choose not to stay on site. 
+

@@ -1,6 +1,6 @@
 baseURL: 'https://waisworkshop.github.io/'
 languageCode: 'en-us'
-title: 'West Antarctica Ice Sheet Workshop'
+title: 'West Antarctic Ice Sheet Workshop'
 theme: hextra
 
 enableEmoji: false
