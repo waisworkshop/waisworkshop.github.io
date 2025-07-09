@@ -59,14 +59,20 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-07-09T13:14:20-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/science-plans/</loc>
+    <lastmod>2025-07-09T13:02:26-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/past-meetings/2019/</loc>
+  </url><url>
+    <loc>http://localhost:1313/past-meetings/2020/</loc>
+  </url><url>
+    <loc>http://localhost:1313/past-meetings/2021/</loc>
+  </url><url>
     <loc>http://localhost:1313/past-meetings/2022/</loc>
     <lastmod>2025-07-09T13:14:20-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past-meetings/2023/</loc>
     <lastmod>2025-07-09T13:14:20-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/science-plans/</loc>
-    <lastmod>2025-07-09T13:02:26-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/past-meetings/2024/</loc>
     <lastmod>2025-07-09T16:10:04-06:00</lastmod>
