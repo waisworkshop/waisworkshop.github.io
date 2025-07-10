@@ -1,6 +1,6 @@
 ---
 title: Presentation Guidelines
-weight: 2
+weight: 7
 ---
 
 ## Talk Guidelines

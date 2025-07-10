@@ -1,6 +1,6 @@
 ---
 title: Agenda
-weight: 3
+weight: 5
 prev: past-meetings/2024/agenda
 ---
 

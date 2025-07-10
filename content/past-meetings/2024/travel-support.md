@@ -1,6 +1,6 @@
 ---
 title: Early-Career Travel Support
-weight: 3
+weight: 4
 ---
 
 The retreat format of WAIS Workshops provides a unique atmosphere where scientists at the start of their career can interact with senior researchers. We therefore strive to make WAIS Workshop accessible through early-career travel support to encourage attendence from a broad specturm of early-career researchers. 

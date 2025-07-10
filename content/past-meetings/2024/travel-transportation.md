@@ -1,6 +1,6 @@
 ---
 title: Travel and Transportation
-weight: 4 
+weight: 6
 ---
 
 ## Flight Recommendations
