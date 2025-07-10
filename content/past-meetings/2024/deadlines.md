@@ -9,14 +9,14 @@ prev: past-meetings/2024/
 {{<cards cols="1">}}
   {{<card
      title="Abstract Submission"
-     link=../more-info/abstract-submission
+     link=../abstract-submission
      subtitle="September 19, 5:00 PM PDT (UTC-7)"
      tag="Abstract Submission Deadline has now passed"
      tagType="error"
   >}}
   {{<card
      title="Early-Career Travel Support"
-     link=../more-info/ects
+     link=../travel-support
      subtitle="September 19, 5:00 PM PDT (UTC-7)"
      tag="Travel Support Deadline has now passed"
      tagType="error"
