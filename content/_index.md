@@ -37,7 +37,7 @@ The 2025 WAIS Workshop will be held September 15—18 at YMCA Camp Casey in Coup
     title="About the WAIS Workshop"
     class="hx:aspect-auto hx:md:aspect-[.2/1] hx:max-md:min-h-[340px]"
     link="about"
-    subtitle="Read more about the West Antarctic Ice Shet Workshop	."
+    subtitle="Read more about the West Antarctic Ice Sheet Workshop	."
   >}}
 {{</hextra/feature-grid>}}
 

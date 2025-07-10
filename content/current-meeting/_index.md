@@ -11,7 +11,7 @@ cascade:
 {{<hextra/hero-container
     image="images/IMG_0952.jpeg"
     imageTitle="Walking at Camp Casey in 2017"
-    imageWidth="400"
+    imageWidth="500"
 >}}
 
 
@@ -44,7 +44,7 @@ Click the buttons below for more information about this year's WAIS Workshop.
 {{<cards>}}
     {{<card link="deadlines" title="Deadlines" subtitle="Important deadlines for WAIS Workshop 2025">}}
     {{<card link="registration" title="Registration" subtitle="Information about registration and lodging fees">}}
-    {{<card link="abstract" title="Abstracts" subtitle="Abstract submission information">}}
+    {{<card link="abstract-submission" title="Abstracts" subtitle="Abstract submission information">}}
     {{<card link="travel-support" title="Early-Career Travel Support" subtitle="Information about travel support for early-career researchers (<5 years since PhD)">}}
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
