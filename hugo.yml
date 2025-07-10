@@ -28,7 +28,7 @@ markup:
     noClasses: false
 
 params:
-  description: Modern, responsive theme for WAIS Workshop and Antarctic science community.
+  description: Homepage and content archive for the West Antarctic Ice Sheet Workshop.
 
   navbar:
     displayTitle: true 
