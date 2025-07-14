@@ -20,7 +20,7 @@ layout: hextra-home
   The West Antarctic Ice Sheet (WAIS) Workshop is a focused, multidisciplinary conference focused on the fate of marine-based ice-sheet sectors. Since its inception in 1992, this long-running workshop has shaped and fostered research on
 the past and present state of Earth's marine-based sectors (including WAIS), the processes that influence its ongoing change, and the present and future vulnerability of marine-based ice-sheet sectors within a changing Earth system. 
 
-The 2025 WAIS Workshop will be held September 15—18 at YMCA Camp Casey in Coupeville, WA. For information about this year's meeting, please click the button below. 
+The 2025 WAIS Workshop will be held September 16–19 at YMCA Camp Casey in Coupeville, WA. For information about this year's meeting, please click the button below. 
 {{</hextra/hero-subtitle>}}
 </div>
 

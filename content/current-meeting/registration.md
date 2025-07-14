@@ -25,7 +25,7 @@ The registration fee includes [meals](#meals) for the 2.5 day meeting. We will h
 
 ## Meals
 
-Registration includes Monday dinner, breakfasts, lunches and dinners on Tuesday and Wednesday, and breakfast and lunch on Thursday. 
+Registration includes Tuesday dinner, breakfasts, lunches and dinners on Wednesday and Thursday, and breakfast and lunch on Friday. 
 
 {{<callout style="note" emoji=" ">}}
   Please indicate any dietary restrictions you may have on the registration form and the caterer will do their best to accommodate.
@@ -34,10 +34,10 @@ Registration includes Monday dinner, breakfasts, lunches and dinners on Tuesday 
 <table border="1" style="border-collapse: collapse;">
   <tr>
     <th></th>
-    <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
     <th>Thursday</th>
+    <th>Friday</th>
   </tr>
   <tr>
     <td>Breakfast</td>
