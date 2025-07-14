@@ -34,6 +34,13 @@ Gainesville, FL USA<br>
 
 {{</hextra/hero-container>}}
 
+{{<cards>}}
+  {{<card link="/agendas/wais2024booklet.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
+  {{<card link="" title="Click here to see the YouTube archive of sessions from the 2023 workshop!">}}
+{{</cards>}}
+
+
+
 The 2024 WAIS Workshop was held in Gainesville, Florida, at the Hilton UF Conference Center, located on the University of Florida campus. This NSF- and NASA-sponsored meeting hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent Earth systems, with particular emphasis on the West Antarctic Ice Sheet and how it will impact global coastlines, including our host state's. The 2024 meeting is hosted locally by Mickey MacKie (University of Florida) and the rest of WAIS Organizing Committee (Knut Christianson, Brooke Medley, Lauren Miller, Peter Neff, and Matt Siegfried). The 2024 abstract booklet and agenda, with links to videos of each presentation, can be found [here](/agendas/wais2024booklet.pdf). You can re-watch the whole meeting via YouTube here. 
 
 The meeting began with an icebreaker pizza dinner on Monday evening, November 11. Sessions were organized by topic, with keynote speakers for some sessions, followed by contributed talks and concluding with a panel discussion. Poster sessions were held separately. We anticipate about 40-45 talks. The formal meeting agenda endedat lunch on Thursday, November 14, followed by afternoon short-courses led by conmunity members for anyone interested in attending. 
