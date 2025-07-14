@@ -6,7 +6,7 @@ layout: hextra-home
 {{<hextra/hero-container
   image="/images/SEI_177147778.webp"
   imageTitle="Horseshoe Island Glaciers"
-  imageWidth="500"
+  imageWidth="700"
 >}}
 
 <div class="hx:mt-6 hx:mb-6">
@@ -32,18 +32,13 @@ The 2025 WAIS Workshop will be held September 16–19 at YMCA Camp Casey in Coup
 
 <div class="hx:mt-12"></div>
 
-{{<hextra/feature-grid cols="1">}}
+{{<hextra/feature-grid cols="3">}}
   {{<hextra/feature-card
     title="About the WAIS Workshop"
     class="hx:aspect-auto hx:md:aspect-[.2/1] hx:max-md:min-h-[340px]"
     link="about"
     subtitle="Read more about the West Antarctic Ice Sheet Workshop	."
   >}}
-{{</hextra/feature-grid>}}
-
-<div class="hx:mt-6"></div>
-
-{{<hextra/feature-grid cols="2">}}
   {{<hextra/feature-card
     title="Past Meetings"
     link="past-meetings"
