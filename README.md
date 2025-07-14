@@ -12,4 +12,4 @@ Please email [wais@mines](mailto:wais@mines.edu) with any comments or questions.
 
 ## License & citation
 
-The website and all of its content (including historical information about past WAIS Workshops) are made freely available through a BSD-3-Clause license. If you use content from this repository for any teaching or research purposes, we'd love to know and document that, so shoot us an email please! We plan on doing versioned releases of the website (and more importantly its archived content) via Zenodo, which will make this content formally citable in your publications. Stay tuned for that citation! 
+The website and all of its content (including historical information about past WAIS Workshops) are made freely available through a BSD-3-Clause license. If you use content from this repository for any teaching or research purposes, we would love to know and document that, so shoot us an email please! We plan on doing versioned releases of the website (and more importantly its archived content) via Zenodo, which will make this content formally citable in your publications. Stay tuned for that citation! 
