@@ -34,7 +34,7 @@ Sterling, Virginia, USA<br>
 {{</hextra/hero-container>}}
 
 {{<cards>}}
-  {{<card link="/abstracts/wais2021booklet.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
+  {{<card link="/agendas/wais2021booklet.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
   {{<card link="https://www.youtube.com/watch?v=cGhlYm_S19A&list=PLaPrVYyxSZsjPuV_fvrwO91tLPgyVlmFe" title="Click here to see the YouTube archive of sessions from the 2021 workshop!">}}
 {{</cards>}}
 

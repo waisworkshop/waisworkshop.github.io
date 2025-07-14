@@ -34,7 +34,7 @@ Julian, California USA<br>
 {{</hextra/hero-container>}}
 
 {{<cards>}}
-  {{<card link="/abstracts/wais2019abstracts.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
+  {{<card link="/agendas/wais2019abstracts.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
   {{<card link="https://www.youtube.com/playlist?list=PLaPrVYyxSZsiAUQZi-KAtp4YOfcEMdGpO" title="Click here to see the YouTube archive of sessions from the 2019 workshop!">}}
 {{</cards>}}
 

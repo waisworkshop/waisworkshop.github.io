@@ -5,9 +5,6 @@ cascade:
 ---
 
 ## Past Meetings
-{{<callout type="warning" emoji="🚧">}}
-  This page is under development
-{{</callout>}}
 
 Information about past WAIS Workshops can be found by clicking the links on the left sidebar. If you have information about WAIS Workshops that does not appear on these pages, please get in touch! You can email us at [wais@mines.edu](mailto:wais@mines.edu) or open a GitHub Issue on [the repository for this website](https://github.com/waisworkshop/waisworkshop.github.io). 
 
