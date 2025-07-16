@@ -46,7 +46,7 @@ The meeting begins with an icebreaker pizza dinner on Monday evening, September 
 {{<cards>}}
     {{<card link="deadlines" title="Deadlines" subtitle="See important dealines">}}
     {{<card link="registration" title="Registration" subtitle="See the registration information">}}
-    {{<card link="abstract" title="Abstracts" subtitle="Abstract submission infprmation">}}
+    {{<card link="abstract-submission" title="Abstracts" subtitle="Abstract submission information">}}
     {{<card link="travel-support" title="Early-Career Travel Support" subtitle="Information about travel support for early career researched (<5 years since PhD)">}}
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
