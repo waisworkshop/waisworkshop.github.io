@@ -34,8 +34,8 @@ Sterling, Virginia, USA<br>
 {{</hextra/hero-container>}}
 
 {{<cards>}}
-  {{<card link="/agendas/wais2021booklet.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
-  {{<card link="https://www.youtube.com/watch?v=cGhlYm_S19A&list=PLaPrVYyxSZsjPuV_fvrwO91tLPgyVlmFe" title="Click here to see the YouTube archive of sessions from the 2021 workshop!">}}
+  {{<card link="/agendas/wais2021booklet.pdf" title="Click here for the conference booklet, including the agenda, abstracts, and direct links to recordings of each talk">}}
+  {{<card link="https://www.youtube.com/watch?v=cGhlYm_S19A&list=PLaPrVYyxSZsjPuV_fvrwO91tLPgyVlmFe" title="Click here to see the YouTube archive of sessions from the 2021 workshop">}}
 {{</cards>}}
 
 The 2021 WAIS Workshop was held in Sterling, Virginia, in the Washington, DC area at [Algonkian Regional Park](https://www.novaparks.com/parks/algonkian-regional-park). This NSF- and NASA-sponsored meeting hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent earth systems, with particular emphasis on the West Antarctic Ice Sheet. The 2021 meeting is hosted locally by Lauren Simkins (University of Virginia), Brooke Medley (NASA Goddard), and the rest of WAIS Organizing Committee (Knut Christianson, Indrani Das, Peter Neff, Matthew Siegfried). 
@@ -45,7 +45,7 @@ The meeting begins with an icebreaker pizza dinner on Monday evening, September 
 {{<cards>}}
     {{<card link="deadlines" title="Deadlines" subtitle="See important dealines">}}
     {{<card link="registration" title="Registration" subtitle="See the registration information">}}
-    {{<card link="abstract" title="Abstracts" subtitle="Abstract submission infprmation">}}
+    {{<card link="abstract-submission" title="Abstracts" subtitle="Abstract submission information">}}
     {{<card link="travel-support" title="Early-Career Travel Support" subtitle="Information about travel support for early career researched (<5 years since PhD)">}}
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
