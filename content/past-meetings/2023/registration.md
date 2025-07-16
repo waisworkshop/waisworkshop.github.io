@@ -5,8 +5,6 @@ weight: 2
 
 {{<callout type="error" emoji=" ">}}
   Registration for the 2023 WAIS Workshop is now closed.
-  
-  A link for livestreaming will be sent to the [WAIS Workshop email list](http://eepurl.com/hHDpVL).
 {{</callout>}}
 
 ## Fees
