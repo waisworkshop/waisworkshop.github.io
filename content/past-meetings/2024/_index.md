@@ -35,8 +35,9 @@ Gainesville, FL USA<br>
 {{</hextra/hero-container>}}
 
 {{<cards>}}
-  {{<card link="/agendas/wais2024booklet.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
-  {{<card link="" title="Click here to see the YouTube archive of sessions from the 2023 workshop!">}}
+	{{<card link="/agendas/wais2024booklet.pdf" title="Click here for the conference booklet, including the agenda and abstracts.">}}
+  <!---{{<card link="/agendas/wais2024booklet.pdf" title="Click here for the conference booklet, including the agenda, abstracts, and direct links to recordings of each talk.">}}--->
+  <!---{{<card link="" title="Click here to see the YouTube archive of sessions from the 2024 workshop.">}}--->
 {{</cards>}}
 
 
@@ -48,7 +49,7 @@ The meeting began with an icebreaker pizza dinner on Monday evening, November 11
 {{<cards>}}
     {{<card link="deadlines" title="Deadlines" subtitle="See important dealines">}}
     {{<card link="registration" title="Registration" subtitle="See the registration information">}}
-    {{<card link="abstract" title="Abstracts" subtitle="Abstract submission infprmation">}}
+    {{<card link="abstract-submission" title="Abstracts" subtitle="Abstract submission information">}}
     {{<card link="travel-support" title="Early-Career Travel Support" subtitle="Information about travel support for early career researched (<5 years since PhD)">}}
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
