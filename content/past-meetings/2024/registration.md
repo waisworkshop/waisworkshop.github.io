@@ -7,8 +7,6 @@ prev: past-meetings/2024/deadlines
 
 {{<callout type="error" emoji=" ">}}
   Registration for the 2024 WAIS Workshop is now closed.
-  
-  A link for livestreaming will be sent to the [WAIS Workshop email list](http://eepurl.com/hHDpVL).
 {{</callout>}}
 
 ## Fees

@@ -3,8 +3,6 @@ title: Agenda
 weight: 5
 ---
 
-## 2022 Meeting Agenda
-
 The full agenda with times, presenters, and abstracts can be found [here](/agendas2022booklet.pdf)
 
 Plan to arrive Monday, September 26 for dinner and socializing; dinner is included in the registration fee and we ask for a small donation to cover drinks. The WAIS Workshop is 2½ days, concluding with lunch on Thursday, September 29. We will have around 40-50 talks that cover all aspects of the West Antarctic Ice Sheet system, including research from glaciologists, oceanographers, atmospheric scientists, biologists, computer scientists, and engineers at all career stages. We also enourage abstracts that discuss relevant aspects of communicating WAIS science beyond the research community as well as ideas to improve the diversity, inclusion, and equity of our field. Following each set of oral presentations, a panel of the session's speakers and a moderator will lead an open discussion about the general theme, and examine what the significance of new insights presented in the talks is for the West Antarctic system. For 2021, sessions themes will include:

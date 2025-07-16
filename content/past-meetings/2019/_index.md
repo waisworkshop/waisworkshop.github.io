@@ -34,8 +34,8 @@ Julian, California USA<br>
 {{</hextra/hero-container>}}
 
 {{<cards>}}
-  {{<card link="/agendas/wais2019abstracts.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
-  {{<card link="https://www.youtube.com/playlist?list=PLaPrVYyxSZsiAUQZi-KAtp4YOfcEMdGpO" title="Click here to see the YouTube archive of sessions from the 2019 workshop!">}}
+  {{<card link="/agendas/wais2019abstracts.pdf" title="Click here for the conference booklet, including the agenda, abstracts, and direct links to recordings of each talk">}}
+  {{<card link="https://www.youtube.com/playlist?list=PLaPrVYyxSZsiAUQZi-KAtp4YOfcEMdGpO" title="Click here to see the YouTube archive of sessions from the 2019 workshop">}}
 {{</cards>}}
 
 The 2019 WAIS Workshop will be held outside of sunny San Diego, California, at the newly upgraded and remodeled [Camp Cedar Glen](http://www.campcedarglen.org/) in Julian, CA. This NSF- and NASA-sponsored meeting hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent earth systems, with particular emphasis on the West Antarctic Ice Sheet. Similar to past years, registration and abstraction submission will open in early July and the abstract deadline will be in August. The WAIS Workshop will immediately follow the [2019 Interdisciplinary Antarctic Earth Sciences meeting](http://tamcamp.org/) from October 13-15, also at Camp Cedar Glen. The 2019 meeting is hosted locally by Helen Fricker and the WAIS Organizing Committee (Knut Christianson, Indrani Das, Joseph MacGregor, Brooke Medley, Matthew Siegfried, Lauren Simkins). 
@@ -45,7 +45,7 @@ The meeting begins with an Icebreaker pizza dinner on Tuesday evening, October 1
 {{<cards>}}
     {{<card link="deadlines" title="Deadlines" subtitle="See important dealines">}}
     {{<card link="registration" title="Registration" subtitle="See the registration information">}}
-    {{<card link="abstract" title="Abstracts" subtitle="Abstract submission infprmation">}}
+    {{<card link="abstract-submission" title="Abstracts" subtitle="Abstract submission information">}}
     {{<card link="travel-support" title="Early-Career Travel Support" subtitle="Information about travel support for early career researched (<5 years since PhD)">}}
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}

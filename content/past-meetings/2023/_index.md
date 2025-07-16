@@ -35,8 +35,8 @@ Cloquet, Minnesota, USA<br>
 {{</hextra/hero-container>}}
 
 {{<cards>}}
-  {{<card link="/agendas/wais2023booklet.pdf" title="Click here for the conference booklet, which includes the agenda, abstracts, and more!">}}
-  {{<card link="https://www.youtube.com/playlist?list=PLaPrVYyxSZsiNPkSpmA4Wq5y1m7ttXcBX" title="Click here to see the YouTube archive of sessions from the 2023 workshop!">}}
+  {{<card link="/agendas/wais2023booklet.pdf" title="Click here for the conference booklet, including the agenda, abstracts, and directly links to recordings of each talk.">}}
+  {{<card link="https://www.youtube.com/playlist?list=PLaPrVYyxSZsiNPkSpmA4Wq5y1m7ttXcBX" title="Click here to see the YouTube archive of sessions from the 2023 workshop.">}}
 {{</cards>}}
 
 The 2023 WAIS Workshop will be held in Cloquet, MN, at University of Minnesota's [Cloquet Forestry Center](https://cfc.cfans.umn.edu/), a research and education site located on the southern edge of North America's boreal forest—[read more here](./about-cfc) about University of Minnesota intentions for the Cloquet Forestry Center in consultation with the Fond du Lac Band of Lake Superior Chippewa leaders. This NSF- and NASA-sponsored meeting hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent earth systems, with particular emphasis on the West Antarctic Ice Sheet. The 2023 meeting is hosted locally by Peter Neff (University of Minnesota) and the rest of WAIS Organizing Committee (Knut Christianson, Mickey MacKie, Brooke Medley, Matt Siegfried, Lauren Simkins). 
@@ -46,7 +46,7 @@ The meeting begins with an icebreaker pizza dinner on Monday evening, September 
 {{<cards>}}
     {{<card link="deadlines" title="Deadlines" subtitle="See important dealines">}}
     {{<card link="registration" title="Registration" subtitle="See the registration information">}}
-    {{<card link="abstract" title="Abstracts" subtitle="Abstract submission infprmation">}}
+    {{<card link="abstract-submission" title="Abstracts" subtitle="Abstract submission information">}}
     {{<card link="travel-support" title="Early-Career Travel Support" subtitle="Information about travel support for early career researched (<5 years since PhD)">}}
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
