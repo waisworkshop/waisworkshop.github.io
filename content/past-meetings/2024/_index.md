@@ -21,7 +21,7 @@ cascade:
 
 
 {{<hextra/hero-subtitle>}}
-  Thirty-Second Annual WAIS Workshop
+  Thirty-First Annual WAIS Workshop
 {{</hextra/hero-subtitle>}}
 
 <div class="hx:mt-6 hx:mb-3">
@@ -54,5 +54,6 @@ The meeting began with an icebreaker pizza dinner on Monday evening, November 11
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
     {{<card link="presentation-guidelines" title="Presentation Guidelines" subtitle="Initial guidelines for oral and poster presentations">}}
+    {{<card link="code-of-conduct" title="Code of Conduct" subtitle="Information about the workshop code of conduct.">}}
 {{</cards>}}
 

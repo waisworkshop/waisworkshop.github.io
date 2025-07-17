@@ -50,5 +50,6 @@ The meeting begins with an Icebreaker pizza dinner on Tuesday evening, October 1
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
     {{<card link="presentation-guidelines" title="Presentation Guidelines" subtitle="Initial guidelines for oral and poster presentations">}}
+    {{<card link="code-of-conduct" title="Code of Conduct" subtitle="Information about the workshop code of conduct.">}}
 {{</cards>}}
 
