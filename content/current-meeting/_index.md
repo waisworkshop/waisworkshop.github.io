@@ -21,7 +21,7 @@ cascade:
 
 
 {{<hextra/hero-subtitle>}}
-  Thirty-Third Annual WAIS Workshop
+  Thirty-Second Annual WAIS Workshop
 {{</hextra/hero-subtitle>}}
 
 <div class="hx:mt-6 hx:mb-3">
@@ -49,5 +49,6 @@ Click the buttons below for more information about this year's WAIS Workshop.
     {{<card link="agenda" title="Agenda" subtitle="Preliminary information about the workshop agenda">}}
     {{<card link="travel-transportation" title="Travel & Transportation" subtitle="Some extra information to help with travel and transportation">}}
     {{<card link="presentation-guidelines" title="Presentation Guidelines" subtitle="Initial guidelines for oral and poster presentations">}}
+    {{<card link="code-of-conduct" title="Code of Conduct" subtitle="Information on the workshop's code of conduct">}}
 {{</cards>}}
 
