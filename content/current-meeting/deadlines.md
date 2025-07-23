@@ -5,33 +5,33 @@ next: .Next
 prev: .Prev
 ---
 
-Please check back soon for when registration and abstract submission opens!
-<!---
+
 <div class="hx:mt-6 hx:mb-6">
 {{<cards cols="1">}}
+
+<!-- While registration is open: -->
+  {{<card
+     title="Registration"
+     link="../registration"
+     subtitle="August 13, 2025, 11:59 PM PDT (UTC-7)"
+     tag="Click here for information about registering for WAIS Workshop 2025"
+     tagType="info"
+  >}} 
+  
   {{<card
      title="Abstract Submission"
-     link=../more-info/abstract-submission
-     subtitle="September 19, 5:00 PM PDT (UTC-7)"
-     tag="Abstract Submission Deadline has now passed"
-     tagType="error"
+     link=../abstract-submission
+     subtitle="August 13, 2025, 11:59 PM PDT (UTC-7)"
+     tag="Click here for information about abstract submission"
+     tagType="info"
   >}}
   {{<card
      title="Early-Career Travel Support"
-     link=../more-info/ects
-     subtitle="September 19, 5:00 PM PDT (UTC-7)"
-     tag="Travel Support Deadline has now passed"
-     tagType="error"
-  >}}
---->
-<!-- While registration is open: -->
-<!--  {{<card
-     title="Registration"
-     link="../registration"
-     subtitle="October 4, 5:00 PM PDT (UTC-7)"
-     tag="Our workshop has reached capacity in the past, so register early!"
+     link=../travel-support
+     subtitle="August 13, 2025, 11:59 PM PDT (UTC-7)"
+     tag="Click here for information about early-career travel support"
      tagType="info"
-  >}} -->
+  >}}
 
 <!-- When we are close to capacity -->
 <!--  {{<card
@@ -53,7 +53,8 @@ Please check back soon for when registration and abstract submission opens!
      tag="Registration is now closed."
      tagType="error"
   >}}
+--->
 
 {{</cards>}}
 </div>
---->
+

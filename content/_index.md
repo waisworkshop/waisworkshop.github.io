@@ -9,24 +9,28 @@ layout: hextra-home
   imageWidth="700"
 >}}
 
-<div class="hx:mt-6 hx:mb-6">
+<div class="hx:mt-1">
 {{<hextra/hero-headline>}}
   Welcome to WAIS Workshop
 {{</hextra/hero-headline>}}
 </div>
 
-<div class="hx:mt-6 hx:max-w-xl">
+<div class="hx:mt-3 hx:max-w-xl">
 {{<hextra/hero-subtitle>}} 
-  The West Antarctic Ice Sheet (WAIS) Workshop is a focused, multidisciplinary conference focused on the fate of marine-based ice-sheet sectors. Since its inception in 1992, this long-running workshop has shaped and fostered research on
-the past and present state of Earth's marine-based sectors (including WAIS), the processes that influence its ongoing change, and the present and future vulnerability of marine-based ice-sheet sectors within a changing Earth system. 
-
-The 2025 WAIS Workshop will be held September 16–19 at YMCA Camp Casey in Coupeville, WA. For information about this year's meeting, please click the button below. 
+  The West Antarctic Ice Sheet (WAIS) Workshop is a  multidisciplinary conference focused on the fate of marine-based ice-sheet sectors. Since its inception in 1992, this long-running workshop has shaped and fostered research on the past and present state of Earth's marine-based sectors (including WAIS), the processes that influence its ongoing change, and the present and future vulnerability of marine-based ice-sheet sectors within a changing Earth system. The 2025 WAIS Workshop will be held September 16–19 at YMCA Camp Casey in Coupeville, WA. For information about this year's meeting, please click the button below. 
 {{</hextra/hero-subtitle>}}
 </div>
 
 <div class="hx:mt-6 hx:mb-6">
 {{<hextra/hero-button text="2025 WAIS Workshop" link="current-meeting">}}
 </div>
+
+<div class="hx:mt-3 hx:max-w-xl">
+{{<hextra/hero-subtitle>}} 
+To stay up-to-date on WAIS Workshop information, join the WAIS Workshop email distribution list <a href="https://waisworkshop.us5.list-manage.com/subscribe?u=899f758df5f1161ee9a993d3e&id=489522cb53" target="_blank" style="color:#0000FF;"> here</a>.
+{{</hextra/hero-subtitle>}} 
+</div>
+
 
 {{</hextra/hero-container>}}
 
