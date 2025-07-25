@@ -8,7 +8,7 @@ prev: .Prev
 
 ## Talk Guidelines
 
-* Talks will be 10 or 15 minutes long, including time for questions and switching presenters. Your presentation length will be assigned by the Organizing Committee and will be noted on the final agenda, which will be released in early October. We have a full meeting so please be mindful of your time and courteous to the next presenter. A discussion period concludes each session where further questions can be addressed.
+* Talks will be 10 or 15 minutes long, including time for questions and switching presenters. Your presentation length will be assigned by the Organizing Committee and will be noted on the final agenda, which will be released in early September. We have a full meeting so please be mindful of your time and courteous to the next presenter. A discussion period concludes each session where further questions can be addressed.
 
 * All presentation files will be loaded on one central laptop to expedite the transition between presenters. We request you provide us with your presentation the day prior to your assigned time. Dinner time is a good time for this.
 
