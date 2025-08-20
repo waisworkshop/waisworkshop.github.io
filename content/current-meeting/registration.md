@@ -5,11 +5,11 @@ next: .Next
 prev: .Prev
 ---
 
-<!---
+
 {{<callout type="error" emoji=" ">}}
   Registration for the 2024 WAIS Workshop is now closed.
 {{</callout>}}
---->
+
 
 ## Fees
 
@@ -21,7 +21,8 @@ prev: .Prev
 {{</cards>}}
 </div>
 
-Registration for WAIS Workshop 2025 is now open. **Please [click here](https://mines.eventsair.com/26gp1120a/waisreg) to register for the meeting.** The registration fee includes [meals](#meals) for the 2.5 day meeting. We will have a separate [lodging](#lodging) fee for staying on site during the conference. **The registration deadline is August 13, 2025 at 11:59 PM PDT (UTC-7).**
+<!-- Registration for WAIS Workshop 2025 is now open. **Please [click here](https://mines.eventsair.com/26gp1120a/waisreg) to register for the meeting.** -->
+The registration fee includes [meals](#meals) for the 2.5 day meeting. We will have a separate [lodging](#lodging) fee for staying on site during the conference. **The registration deadline is August 13, 2025 at 11:59 PM PDT (UTC-7).**
 
 ## Meals
 
