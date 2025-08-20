@@ -5,6 +5,11 @@ next: .Next
 prev: .Prev
 ---
 
+{{<callout type="error" emoji=" ">}}
+  Early-Career travel support is now closed.
+{{</callout>}}
+
+
 The retreat format of WAIS Workshops provides a unique atmosphere where scientists at the start of their career can interact with senior researchers. We therefore strive to make WAIS Workshop accessible through early-career travel support to encourage attendence from a broad specturm of early-career researchers. 
 
 Our budget includes airfare, lodging, and registration fee support for a limited number of students and early-career researchers. We ask that interested people submit an abstract on their recent research for consideration for the funding and submit the application for early-career travel support [here](https://forms.gle/PmkrdehPBRYvG2Y89). Please highlight the relevance of your abstract to West Antarctica, ice sheet stability, ice-ocean or ice-biology interactions, or polar climate change and any other relevant information regarding your funding. 

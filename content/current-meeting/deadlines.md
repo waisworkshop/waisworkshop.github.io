@@ -10,6 +10,7 @@ prev: .Prev
 {{<cards cols="1">}}
 
 <!-- While registration is open: -->
+<!--
   {{<card
      title="Registration"
      link="../registration"
@@ -32,6 +33,7 @@ prev: .Prev
      tag="Click here for information about early-career travel support"
      tagType="info"
   >}}
+-->
 
 <!-- When we are close to capacity -->
 <!--  {{<card
@@ -45,7 +47,6 @@ prev: .Prev
 
 <!-- When registration closes -->
 
-<!---
   {{<card
      title="Registration"
      link="../registration"
@@ -53,7 +54,20 @@ prev: .Prev
      tag="Registration is now closed."
      tagType="error"
   >}}
---->
+  {{<card
+     title="Abstract Submission"
+     link=../abstract-submission
+     subtitle="August 13, 2025, 11:59 PM PDT (UTC-7)"
+     tag="The abstract submission window is closed."
+     tagType="error"
+  >}}
+  {{<card
+     title="Early-Career Travel Support"
+     link=../travel-support
+     subtitle="August 13, 2025, 11:59 PM PDT (UTC-7)"
+     tag="The Early-Career support window is closed."
+     tagType="error"
+  >}}
 
 {{</cards>}}
 </div>
