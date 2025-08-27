@@ -7,7 +7,7 @@ prev: .Prev
 
 
 {{<callout type="error" emoji=" ">}}
-  Registration for the 2024 WAIS Workshop is now closed.
+  Registration for the 2025 WAIS Workshop is now closed.
 {{</callout>}}
 
 
