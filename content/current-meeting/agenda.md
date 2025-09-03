@@ -57,6 +57,10 @@ Click [here](/agendas/wais2024booklet.pdf) for the full workshop agenda.
 
 --->
 
+## Detailed Agenda
+
+Click [here](/agendas/wais2025booklet.pdf) for the full agenda and abstract booklet for the 2025 WAIS Workshop.
+
 ## Rough Schedule
 
 Plan to arrive Tuesday, September 16 for a light dinner and socializing. The workshop is 2½ days, concluding with lunch on Friday, September 19. We will have around 40–45 talks that cover all aspects of the West Antarctic Ice Sheet system or other marine ice-sheet systems, including research from glaciologists, oceanographers, atmospheric scientists, biologists, computer scientists, and engineers at all career stages. Following each set of oral presentations, a panel (the session's speakers) and the moderator will lead an open discussion about the general theme, and examine what the significance of new insights presented in the talks is for WAIS and other marine ice-sheet systems. This open, engaged discussion helps identify the core research directiosn for our community.
@@ -73,9 +77,3 @@ For 2025, we have six thematic science sessions. If you do not feel like your re
 * **What does the future hold?** Projections of marine-ice sheet contribution to sea level continue to be (somewhat infamously) subjected to “deep uncertainty”. What are the current projections? How do we quantify and communicate uncertainty in a complex, interconnected, multidisciplinary, non-linear system? What processes are still missing from these projections and how do they impact global coastal change? What are the key pathways for defining, quantifying, reducing, accepting, and communicating uncertainty in the marine ice-sheet system?
 * **What Did I Miss?** We invite contributions about research that highlights data and modeling gaps that limit our ability to advance our understanding of any or all components of the Antarctic system. What are the community needs for future satellite, airborne, and ground measurements? How do we easily access and analyze the growing volume of model output?
 * **WAIS impacts across the US:** Actionable science about the impact of WAIS and marine ice-sheet change requires engaging federal, state, and local governments and populations across the country to co-produce knowledge and solutions. We seek contributions that describe efforts to bring WAIS science into the general population and promote funding opportunities for our research. We particularly appreciate case studies from outside the US, which can provide strategies to implement domestically.
-
-
-## Detailed Agenda 
-
-Stay tuned for a detailed agenda after abstract submission closes. 
-
