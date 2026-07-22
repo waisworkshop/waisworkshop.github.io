@@ -7,7 +7,7 @@ prev: .Prev
 
 
 {{<callout type="error" emoji=" ">}}
-  (Registration)[https://cvent.me/eQOxKb] for the 2026 WAIS Workshop is now open!
+  [Registration](https://cvent.me/eQOxKb) for the 2026 WAIS Workshop is now open!
 {{</callout>}}
 
 
