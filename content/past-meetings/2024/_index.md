@@ -36,7 +36,6 @@ Gainesville, FL USA<br>
 
 {{<cards>}}
 	{{<card link="/agendas/wais2024booklet.pdf" title="Click here for the conference booklet, including the agenda and abstracts.">}}
-  {{<card link="/agendas/wais2024booklet.pdf" title="Click here for the conference booklet, including the agenda and abstracts.">}}
   {{<card link="https://www.youtube.com/playlist?list=PLaPrVYyxSZsggrQvOwS8YButPuotXAKgU" title="Click here to see the YouTube archive of sessions from the 2024 workshop.">}}
 {{</cards>}}
 
