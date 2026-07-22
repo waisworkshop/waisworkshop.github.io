@@ -44,7 +44,7 @@ To stay up-to-date on WAIS Workshop information, join the WAIS Workshop email di
     subtitle="Read more about the West Antarctic Ice Sheet Workshop	."
   >}}
   {{<hextra/feature-card
-    title="Past Meetings"
+    title="Past Workshops"
     link="past-meetings"
     subtitle="Information from past meetings back to 1992."
   >}}
