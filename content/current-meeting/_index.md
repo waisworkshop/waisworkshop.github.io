@@ -9,26 +9,26 @@ cascade:
 <div class="hx:mt-6 hx:mb-6"></div>
 
 {{<hextra/hero-container
-    image="images/IMG_0952.jpeg"
-    imageTitle="Walking at Camp Casey in 2017"
+    image="images/4h-recfield.jpg"
+    imageTitle="Recreational field at NOVA 4H"
     imageWidth="500"
 >}}
 
 
 {{<hextra/hero-headline>}}
-  2025 WAIS Workshop
+  2026 WAIS Workshop
 {{</hextra/hero-headline>}}
 
 
 {{<hextra/hero-subtitle>}}
-  Thirty-Second Annual WAIS Workshop
+  Thirty-Third Annual WAIS Workshop
 {{</hextra/hero-subtitle>}}
 
 <div class="hx:mt-6 hx:mb-3">
 
-September 16–19, 2025<br>
-YMCA Camp Casey<br>
-Coupville, WA USA<br>
+September 28–30, 2026<br>
+Northern Virginia 4-H Educational and Conference Center<br>
+Front Royal, VA USA<br>
 
 </div>
 
@@ -36,13 +36,13 @@ Coupville, WA USA<br>
 
 
 {{<callout type="warning" emoji=" ">}}
-  Registration, travel support, and abstract submission is closed. Click [here](/agendas/wais2025booklet.pdf) to see the 2025 WAIS Workshop abstract booklet.
+  [Registration](https://cvent.me/eQOxKb), [early-career travel support](https://forms.gle/HCTFfynRe4we6w4U7), and [abstract](https://www.cvent.com/c/abstracts/ec53ddf0-fcfe-4076-98a2-8253113e73cd) submission is now open!
 {{</callout>}}
 
-The 2025 WAIS Workshop will return to Coupville, WA on Whidbey Island at the [YMCA Camp Casey](https://www.ymcacampcasey.org/). This NSF- and NASA-sponsored meeting hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent Earth systems, with particular emphasis on the West Antarctic Ice Sheet and how it impacts and reshapes global coastlines, including our host island's. The 2025 meeting is hosted locally by Knut Christianson (University of Washington) and the rest of WAIS Organizing Committee (Knut Christianson, Mickey MacKie, Peter Neff, Matt Siegfried, Tyler Sutterley, Ryan Venturelli). 
+The 2026 WAIS Workshop will take place a new venue in the DC area: the [Northern Virginia 4-H Educational and Conference Center](https://www.nova4h.org). This NSF- and NASA-sponsored meeting hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent Earth systems, with particular emphasis on the West Antarctic Ice Sheet and how it impacts and reshapes global coastlines, including our host island's. The 2026 meeting is hosted by the WAIS Workshop Organizing Committee (Knut Christianson, David Lilien, Mickey MacKie, Peter Neff, Matt Siegfried, Tyler Sutterley, Ryan Venturelli). 
 
-<!---The meeting begins with an icebreaker pizza dinner on Tuesday evening, September 16. Sessions are organized by topic, with keynote speakers for some sessions, followed by contributed talks and concluding with a panel discussion. Poster sessions will be held separately. We anticipate about 40-45 talks. The formal meeting agenda will end at lunch on Friday, September 19, followed by afternoon short-courses led by conmunity members for anyone interested in attending. We will also continue our annual workshop-wide community discussion as part of the scientific agenda. Please contact the WAIS Workshop organizing committee at [wais@mines.edu](mailto:wais@mines.edu) if you are interested in leading a short course.  --->
-The meeting begins with an icebreaker pizza dinner on Tuesday evening, September 16. The formal meeting agenda will start Wednesday morning and will end at lunch on Friday, September 19, followed by afternoon short-courses led by conmunity members for anyone interested in attending. We will also continue our annual workshop-wide community discussion as part of the scientific agenda. Click [here](/agendas/wais2025booklet.pdf) to see the detailed 2025 WAIS Workshop agenda and abstract booklet. 
+The 2026 meeting begins with an icebreaker pizza dinner on Monday evening, September 28. Sessions are organized by topic, with keynote speakers for some sessions, followed by contributed talks and concluding with a panel discussion. Poster sessions will be held separately. We anticipate about 35-40 talks. The formal meeting agenda will end at 5 pm on Wednesday, September 30. 
+<!---The meeting begins with an icebreaker pizza dinner on Tuesday evening, September 16. The formal meeting agenda will start Wednesday morning and will end at lunch on Friday, September 19, followed by afternoon short-courses led by conmunity members for anyone interested in attending. We will also continue our annual workshop-wide community discussion as part of the scientific agenda. Click [here](/agendas/wais2025booklet.pdf) to see the detailed 2025 WAIS Workshop agenda and abstract booklet. --->
 
 Click the buttons below for more information about this year's WAIS Workshop.
 
