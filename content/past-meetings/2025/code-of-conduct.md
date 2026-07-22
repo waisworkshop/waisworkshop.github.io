@@ -1,0 +1,7 @@
+---
+title: Code of Conduct
+weight: 10
+---
+
+The WAIS Workshop is dedicated to providing a harassment-free experience for participants regardless of gender, age, sexual orientation, disability, physical appearance, race, religion, or other protected status. The WAIS Workshop is a working conference intended for professional networking and collaboration for West Antarctic (and related) researchers. While attending the WAIS Workshop science program or related social events, any participants, including speakers, attendees, volunteers, and anyone else, should not engage in harassment or bullying in any form. All event participants are expected to behave according to professional standards that promote inclusive work environments and in accordance with their employer’s policies on appropriate workplace behavior. For issues or concerns during the conference, please contact any of the WAIS Workshop organizers or the local host, all of whom will be wearing snowflake stickers on their badge. Additional contact information for our hosts and details about the reporting process will be available at WAIS Workshop check-in. This policy applies to all community situations online and offline, including the conference itself, mailing lists, social media, social events associated with the conference, and one-to-one interactions. Participants asked to stop any harassing behavior are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the conference organizers without any refund.
+
