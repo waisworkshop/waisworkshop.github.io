@@ -21,8 +21,8 @@ prev: .Prev
 {{</cards>}}
 </div>
 
-Registration for WAIS Workshop 2026 is now open. **Please [click here](https://cvent.me/eQOxKb) to register for the meeting through our new registration portal.** 
-The registration fee includes [meals](#meals) for the 2 day meeting. <!--We will have a separate [lodging](#lodging) fee for staying on site during the conference.--> **The registration deadline is August 20, 2026 at 11:59 PM PDT (UTC-7).**
+Registration for WAIS Workshop 2026 is now open. **Please [click here](https://cvent.me/eQOxKb) to register for the workshop through our new registration portal.** 
+The registration fee includes [meals](#meals) for the 2 day workshop. <!--We will have a separate [lodging](#lodging) fee for staying on site during the conference.--> **The registration deadline is August 20, 2026 at 11:59 PM PDT (UTC-7).**
 
 ## Meals
 
@@ -72,7 +72,7 @@ Registration includes Monday dinner, breakfast, lunch, and dinner on Tuesday, an
 {{</callout>}}
 --->
 
-Lodging at [NOVA 4H](https://www.nova4h.com/) will be in [Congressman J. Kenneth Robinson Hall](https://www.nova4h.com/congressman-hall), with a beautiful back deck to watch a mountainside sunset. Staying on site allows interaction and collaboration among the meeting participants in an informal and beautiful setting. For the true WAIS Workshop experience, we _strongly_ recommend staying on-site, but it is somewhat rustic with shared rooms. Lodging will be filled on a first-come, first-served basis, and we do have space available for nearly all participants to stay on site in shared quarters. For those staying on site, you will be provided a fitted sheet, fleece blanket, and bath towel. Please bring your own pillow and, if you sleep cold, perhaps another small blanket.
+Lodging at [NOVA 4H](https://www.nova4h.com/) will be in [Congressman J. Kenneth Robinson Hall](https://www.nova4h.com/congressman-hall), with a beautiful back deck to watch a mountainside sunset. Staying on site allows interaction and collaboration among the workshop participants in an informal and beautiful setting. For the true WAIS Workshop experience, we _strongly_ recommend staying on-site, but it is somewhat rustic with shared rooms. Lodging will be filled on a first-come, first-served basis, and we do have space available for nearly all participants to stay on site in shared quarters. For those staying on site, you will be provided a fitted sheet, fleece blanket, and bath towel. Please bring your own pillow and, if you sleep cold, perhaps another small blanket.
 
 For those preferring a hotel, there are several options nearby in Front Royal, VA ([about 10–15 minutes away by car](https://maps.app.goo.gl/n9mHBao2HWu1pgmU9)); we have not arranged a room block, so you are on your own for lodging and transportation to/from NOVA4H every day if you choose not to stay on site. 
 
