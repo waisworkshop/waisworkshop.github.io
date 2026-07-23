@@ -1,7 +1,7 @@
 name: netlify preview
 
 on:
-  pull_request:
+  pull_request_target:
     types: [labeled, synchronize, ready_for_review]
     branches:
       - main
