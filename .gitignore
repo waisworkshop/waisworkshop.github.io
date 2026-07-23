@@ -1,0 +1,10 @@
+# builds
+public
+.hugo_build.lock
+# OS files
+.DS_Store
+# backup files
+*.bak
+# pixi environments
+.pixi/*
+!.pixi/config.toml

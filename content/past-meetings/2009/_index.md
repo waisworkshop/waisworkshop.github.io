@@ -12,4 +12,9 @@ Below is the agenda and abstract booklet from the 2009 joint WAIS/FRISP Workshop
 {{<pdf "/agendas/wais2009booklet.pdf">}}
 </div>
 
+<div class="hx:mt-6 hx:mb-6">
+{{<hextra/hero-button text="2009 Abstracts" link="abstracts">}}
+{{<hextra/hero-button text="2009 Posters" link="posters">}}
+{{<hextra/hero-button text="2009 Presentations" link="presentations">}}
+</div>
 
