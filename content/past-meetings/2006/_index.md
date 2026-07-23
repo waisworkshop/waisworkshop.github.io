@@ -12,4 +12,9 @@ Below is the 2006 WAIS Workshop agenda and abstract booklet. If you have more hi
 {{<pdf "/agendas/wais2006booklet.pdf">}}
 </div>
 
+<div class="hx:mt-6 hx:mb-6">
+{{<hextra/hero-button text="2006 Abstracts" link="abstracts">}}
+{{<hextra/hero-button text="2006 Posters" link="posters">}}
+{{<hextra/hero-button text="2006 Presentations" link="presentations">}}
+</div>
 

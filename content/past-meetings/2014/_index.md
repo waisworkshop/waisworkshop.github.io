@@ -12,4 +12,8 @@ Below is the 2014 WAIS Workshop agenda. If you have more historical information 
 {{<pdf "/agendas/wais2014agenda.pdf">}}
 </div>
 
+<div class="hx:mt-6 hx:mb-6">
+{{<hextra/hero-button text="2014 Abstracts" link="abstracts">}}
+{{<hextra/hero-button text="2014 Presentations" link="presentations">}}
+</div>
 

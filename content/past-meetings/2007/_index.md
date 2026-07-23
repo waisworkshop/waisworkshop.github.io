@@ -12,4 +12,9 @@ Below is the 2007 WAIS Workshop agenda. If you have more historical information 
 {{<pdf "/agendas/wais2007agenda.pdf">}}
 </div>
 
+<div class="hx:mt-6 hx:mb-6">
+{{<hextra/hero-button text="2007 Abstracts" link="abstracts">}}
+{{<hextra/hero-button text="2007 Posters" link="posters">}}
+{{<hextra/hero-button text="2007 Presentations" link="presentations">}}
+</div>
 

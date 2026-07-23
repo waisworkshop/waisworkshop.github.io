@@ -12,4 +12,3 @@ Below is the 2010 WAIS Workshop agenda. If you have more historical information 
 {{<pdf "/agendas/wais2010agenda.pdf">}}
 </div>
 
-
