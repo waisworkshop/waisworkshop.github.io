@@ -5,7 +5,7 @@ next: .Next
 prev: .Prev
 ---
 
-{{<callout type="error" emoji=" ">}}
+{{<callout type="note" emoji=" ">}}
   [Early-Career travel support](https://forms.gle/HCTFfynRe4we6w4U7) is now open!
 {{</callout>}}
 

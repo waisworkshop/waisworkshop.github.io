@@ -5,7 +5,7 @@ next: .Next
 previous: .Prev
 ---
 
-{{<callout type="error" emoji=" ">}}
+{{<callout type="note" emoji=" ">}}
   Abstracts submission is open! Submit your abstract [here](https://www.cvent.com/c/abstracts/ec53ddf0-fcfe-4076-98a2-8253113e73cd) by August 20!
 {{</callout>}}
 
