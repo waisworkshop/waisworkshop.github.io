@@ -1,0 +1,41 @@
+[workspace]
+authors = ["WAIS Workshop Maintainers <wais@mines.edu>"]
+channels = ["conda-forge"]
+name = "waisworkshop.github.io"
+platforms = ["linux-64"]
+version = "2026"
+
+[tasks.webserver]
+args = [ { "arg" = "port", "default" = "1313" } ]
+cmd = "hugo server --disableFastRender --port {{ port }}"
+description = "Locally build and serve the site with hugo"
+
+[tasks.build]
+args = [ { "arg" = "flags", "default" = "" } ]
+cmd = "hugo --gc --minify {{ flags }}"
+description = "Build the site for deployment with hugo"
+
+[tasks.bump]
+depends-on = [
+  { task = "_copy-current", args = ["2026"] },
+  { task = "_find-replace", args = ["2026", "2027"] },
+]
+description = "Prepare new meeting materials"
+
+[tasks._copy-current]
+args = ["year"]
+cmd = "cp -r current-meeting past-meetings/{{ year }}"
+cwd = "content"
+description = "Copy current meeting materials into past"
+
+[tasks._find-replace]
+args = ["previous", "current"]
+cmd = "grep {{ previous }} *.md -lr | xargs sed --in-place='.bak' 's/{{ previous }}/{{ current }}/g'"
+cwd = "content/current-meeting"
+description = "Find and replace years in current meeting materials"
+
+[dependencies]
+# Golang open-source programming language
+go = "*"
+# extended version of the Hugo static site generator
+hugo = "==0.147.7"

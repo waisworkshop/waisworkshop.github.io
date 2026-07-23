@@ -4,7 +4,7 @@ Welcome to the new home of the West Antarctic Ice Sheet Workshop and its archive
 
 ## Updating the website
 
-The WAIS Workshop website is generated with [Hugo](https://github.com/gohugoio/hugo) using the [Hextra theme](https://themes.gohugo.io/themes/hextra/) and deployed via [GitHub Pages](https://pages.github.com/). If you are interested in directly suggesting changes, feel free to fork this repository and make a new branch. When you clone your repository locally, be sure to use the flag `--recursive` to ensure the submodules are cloned as well. Once it is local, you can deploy a local copy of the website to view the website with your local edits by running `hugo server`. Once you have editted the website, please submit a pull request to merge your branch into the live website. 
+The WAIS Workshop website is generated with [Hugo](https://github.com/gohugoio/hugo) using the [Hextra theme](https://themes.gohugo.io/themes/hextra/) and deployed via [GitHub Pages](https://pages.github.com/). If you are interested in directly suggesting changes, feel free to fork this repository and make a new branch. When you clone your repository locally, be sure to use the flag `--recursive` to ensure the submodules are cloned as well. Once it is local, you can deploy a local copy of the website to view the website with your local edits by running `hugo server`. Once you have edited the website, please submit a pull request to merge your branch into the live website. 
 
 ## Contact
 

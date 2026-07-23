@@ -1,5 +1,5 @@
 ---
-linkTitle: 2025 WAIS Workshop
+linkTitle: 2026 WAIS Workshop
 next: /current-meeting/deadlines
 
 cascade:
@@ -48,7 +48,7 @@ Click the buttons below for more information about this year's WAIS Workshop.
 
 
 {{<cards>}}
-    {{<card link="deadlines" title="Deadlines" subtitle="Important deadlines for WAIS Workshop 2025">}}
+    {{<card link="deadlines" title="Deadlines" subtitle="Important deadlines for WAIS Workshop 2026">}}
     {{<card link="registration" title="Registration" subtitle="Information about registration and lodging fees">}}
     {{<card link="abstract-submission" title="Abstracts" subtitle="Abstract submission information">}}
     {{<card link="travel-support" title="Early-Career Travel Support" subtitle="Information about travel support for early-career researchers (<5 years since PhD)">}}
