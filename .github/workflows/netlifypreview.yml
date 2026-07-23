@@ -38,7 +38,7 @@ jobs:
       - name: Build with Hugo
         run: pixi run build
       - name: Deploy Website Preview
-        uses: nwtgck/actions-netlify@v4.0
+        uses: nwtgck/actions-netlify@v3.0
         with:
           publish-dir: './public'
           github-token: ${{ secrets.GITHUB_TOKEN }}
