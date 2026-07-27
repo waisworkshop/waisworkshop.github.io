@@ -15,7 +15,7 @@ prev: .Prev
 
 <div class="hx:mt-6 hx:mb-3">
 {{<cards cols="1">}}
-  {{<card title="Regular Registration with On-Site Lodging: $275">}}
+  {{<card title="Regular Registration with On-Site Lodging: $250">}}
   {{<card title="Early-Career Registration with On-Site Lodging: $175">}}
   {{<card title="Registration without Lodging: $150">}}
 {{</cards>}}
