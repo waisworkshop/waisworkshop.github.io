@@ -5,11 +5,14 @@ next: .Next
 prev: .Prev
 ---
 
-
+<---
 {{<callout type="note" emoji=" ">}}
   [Registration](https://cvent.me/eQOxKb) for the 2026 WAIS Workshop is now open!
 {{</callout>}}
-
+--->
+{{<callout type="error" emoji=" ">}}
+  Registration for the 2026 WAIS Workshop is now closed.
+{{</callout>}}
 
 ## Fees
 
@@ -21,8 +24,8 @@ prev: .Prev
 {{</cards>}}
 </div>
 
-Registration for WAIS Workshop 2026 is now open. **Please [click here](https://cvent.me/eQOxKb) to register for the workshop through our new registration portal.** 
-The registration fee includes [meals](#meals) for the 2 day workshop. <!--We will have a separate [lodging](#lodging) fee for staying on site during the conference.--> **The registration deadline is August 20, 2026 at 11:59 PM PDT (UTC-7).**
+Registration for WAIS Workshop 2026 has closed. <!--**Please [click here](https://cvent.me/eQOxKb) to register for the workshop through our new registration portal.** -->
+The registration fee includes [meals](#meals) for the 2 day workshop. <!--We will have a separate [lodging](#lodging) fee for staying on site during the conference.--> **The registration deadline was August 20, 2026 at 11:59 PM PDT (UTC-7).**
 
 ## Meals
 
