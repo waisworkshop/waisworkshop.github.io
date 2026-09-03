@@ -5,11 +5,12 @@ next: .Next
 prev: .Prev
 ---
 
-<---
+<!--
 {{<callout type="note" emoji=" ">}}
   [Registration](https://cvent.me/eQOxKb) for the 2026 WAIS Workshop is now open!
 {{</callout>}}
---->
+-->
+
 {{<callout type="error" emoji=" ">}}
   Registration for the 2026 WAIS Workshop is now closed.
 {{</callout>}}

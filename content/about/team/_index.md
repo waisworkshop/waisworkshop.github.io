@@ -39,26 +39,6 @@ weight: 5
   </div>
 </div>
 
-<!-- Peter -->
-<div class="person-block">
-
-  <img
-    src="https://swac.umn.edu/sites/swac.umn.edu/files/styles/cfans_profile_photo/public/2020-12/Neff_Peter%20300x300.jpg"
-    alt="Peter"
-    class="person-photo"
-  />
-
-  <div class="person-details">
-
-  ### Peter Neff
-
-  Assistant Professor, Department of Soil, Water, and Climate, University of Minnesota
-
-  [Minnesota NICE Lab Website](https://sites.google.com/umn.edu/iceandclimate)
-
-  </div>
-</div>
-
 <!-- Mickie -->
 <div class="person-block">
 
@@ -75,6 +55,26 @@ weight: 5
   Assistant Professor, Department of Geological Sciences, University of Florida
 
   [Gator Glaciology Lab Website](https://www.gatorglaciology.com/)
+
+  </div>
+</div>
+
+<!-- Peter -->
+<div class="person-block">
+
+  <img
+    src="https://swac.umn.edu/sites/swac.umn.edu/files/styles/cfans_profile_photo/public/2020-12/Neff_Peter%20300x300.jpg"
+    alt="Peter"
+    class="person-photo"
+  />
+
+  <div class="person-details">
+
+  ### Peter Neff
+
+  Assistant Professor, Department of Soil, Water, and Climate, University of Minnesota
+
+  [Minnesota NICE Lab Website](https://sites.google.com/umn.edu/iceandclimate)
 
   </div>
 </div>
