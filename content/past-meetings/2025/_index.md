@@ -36,6 +36,7 @@ Coupville, WA USA<br>
 
 {{<cards>}}
 	{{<card link="/agendas/wais2025booklet.pdf" title="Click here for the conference booklet, including the agenda and abstracts.">}}
+	  {{<card link="https://www.youtube.com/playlist?list=PLEwYhTnq_rP8" title="Click here to see the YouTube archive of sessions from the 2025 workshop.">}}
 {{</cards>}}
 
 The 2025 WAIS Workshop will return to Coupville, WA on Whidbey Island at the [YMCA Camp Casey](https://www.ymcacampcasey.org/). This NSF- and NASA-sponsored meeting hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent Earth systems, with particular emphasis on the West Antarctic Ice Sheet and how it impacts and reshapes global coastlines, including our host island's. The 2025 meeting is hosted locally by Knut Christianson (University of Washington) and the rest of WAIS Organizing Committee (Knut Christianson, Mickey MacKie, Peter Neff, Matt Siegfried, Tyler Sutterley, Ryan Venturelli). 
