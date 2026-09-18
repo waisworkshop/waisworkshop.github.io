@@ -41,7 +41,7 @@ Front Royal, VA USA<br>
 
 {{<callout type="error" emoji=" ">}}
   Registration and abstract submission for the 2026 WAIS Workshop has closed! <br>
-  Click [here](/agendas/wais2026agenda.pdf) for the detailed agenda.
+  Click [here](/agendas/wais2026booklet.pdf) for the detailed agenda and abstract booklet.
 {{</callout>}}
 
 The 2026 WAIS Workshop will take place a new venue in the DC area: the [Northern Virginia 4-H Educational and Conference Center](https://www.nova4h.org). This NSF- and NASA-sponsored workshop hosts transdisciplinary and societally critical science focused on marine ice-sheet and adjacent Earth systems, with particular emphasis on the West Antarctic Ice Sheet and how it impacts and reshapes global coastlines, including our host island's. The 2026 workshop is hosted by the WAIS Workshop Organizing Committee (Knut Christianson, David Lilien, Mickey MacKie, Peter Neff, Matt Siegfried, Tyler Sutterley, Ryan Venturelli). 
