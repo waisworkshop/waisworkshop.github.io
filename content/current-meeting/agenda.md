@@ -59,7 +59,7 @@ Click [here](/agendas/wais2024booklet.pdf) for the full workshop agenda.
 
 ## Detailed Agenda
 
-Click [here](/agendas/wais2026agenda.pdf) for the agenda for the 2026 WAIS Workshop. The full abstract booklet will be available soon.
+Click [here](/agendas/wais2026booklet.pdf) for the agenda and abstract booklet for the 2026 WAIS Workshop. 
 
 ## Rough Schedule
 
